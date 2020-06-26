@@ -16,7 +16,7 @@
 Link:- 
 
 ## Overview
-This is a simple reivew scraper Flask app. This app simply scrap the reviews from flipkart site which include product, customer name, rating, Comment headings and comments. 
+This is a simple reivew scraper Flask app. This app simply scrap the reviews from flipkart site which include product, customer name, rating, Comment headings or comments and save that data into a `.csv` file.
 ## Technical Aspect
 
 ## Installation
