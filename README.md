@@ -13,7 +13,7 @@
 * Credits
 
 ## Demo
-Link:- (https://webscrappertext-busy-wombat-wi.cfapps.io/)
+Link:- https://webscrappertext-busy-wombat-wi.cfapps.io/
 ![index_page](https://github.com/rs301378/WebScraper-for-text-review/blob/master/index_page.JPG)
 ![review_page](https://github.com/rs301378/WebScraper-for-text-review/blob/master/review_page.JPG)
 ## Overview
