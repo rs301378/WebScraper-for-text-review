@@ -40,8 +40,8 @@ Maintain necessary files like `requirements.txt, Procfile, runtime.txt, manifest
 ### Step2. 
 This step would be to follow the instructions given on [Pivotal Documnetation](https://docs.pivotal.io/platform/application-service/2-8/devguide/deploy-apps/rolling-deploy.html "Pivotal Documnetation") to deploy a web app.
 ## Directory Tree
-`|--.idea <br>
-| |--misc.xml<br>
+`|--.idea 
+| |--misc.xml
 | |--modules.xml
 | |--webScrapperText.iml
 | |--workspace.xml
@@ -66,10 +66,11 @@ This step would be to follow the instructions given on [Pivotal Documnetation](h
 |--runtime.txt
 |--samsung.csv`
 ## To Do
-
+1. Scrap multiple pages at one time.
+2. Add better UI and animations to display the reviews.
 ## Technologies Used
 
 ## Team
 
 ## Credits
-
+All the creadits of this project goes to the team of [iNeuron](https://ineuron.ai/ "iNeuron") and Mr. Sudhanshu Kumar.
