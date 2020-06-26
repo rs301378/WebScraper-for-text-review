@@ -28,9 +28,12 @@ This project is divided into two parts:-
   * Used Pivotalto make this app public and use on any platform.
 ## Installation
 The code is written in `Python 3.6`. If you don't have Python installed you can find it [here](https://www.python.org/downloads/ "install python") .To install the required packages and libraries, run this command in the project directory after [clonning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/ "cloning") the repository.
-##`pip install -r requirements.txt`
+`pip install -r requirements.txt`
 ## Run
-
+###Step1.
+To run this on local machine, un-comment the line number 87 or 85 and commentline number 86 or 83 in `flask_app.py` file. Then click on `run` button.
+###Step2.
+Copy the link for e.g. `http://127.0.0.1:8001/` and past it on your broweser and hit enter.
 ## Deployement on Pivotal
 
 ## Directory Tree
