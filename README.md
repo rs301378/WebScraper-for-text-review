@@ -5,9 +5,33 @@
 * Technical Aspect
 * Installation
 * Run
-* Deployement on Heroku
+* Deployement on Pivotal
 * Directory Tree
 * To Do
 * Technologies Used
 * Team
 * Credits
+
+##Demo
+Link:- 
+
+##Overview
+
+##Technical Aspect
+
+##Installation
+
+##Run
+
+##Deployement on Pivotal
+
+##Directory Tree
+
+##To Do
+
+##Technologies Used
+
+##Team
+
+##Credits
+
