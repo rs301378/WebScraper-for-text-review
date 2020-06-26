@@ -40,8 +40,8 @@ Maintain necessary files like `requirements.txt, Procfile, runtime.txt, manifest
 ### Step2. 
 This step would be to follow the instructions given on [Pivotal Documnetation](https://docs.pivotal.io/platform/application-service/2-8/devguide/deploy-apps/rolling-deploy.html "Pivotal Documnetation") to deploy a web app.
 ## Directory Tree
-`|--.idea`
-`| |--misc.xml`
+`|--.idea <br>
+| |--misc.xml<br>
 | |--modules.xml
 | |--webScrapperText.iml
 | |--workspace.xml
