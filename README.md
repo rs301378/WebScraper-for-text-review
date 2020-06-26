@@ -73,4 +73,4 @@ This step would be to follow the instructions given on [Pivotal Documnetation](h
 ## Team
 ![Rohit](https://avatars0.githubusercontent.com/u/35064155?s=400&u=55b08cb72de99de06f4f8728e038297e90c8e255&v=4){:height="700px" width="400px"}
 ## Credits
-All the creadits of this project goes to the team of [iNeuron](https://ineuron.ai/ "iNeuron") and Mr. Sudhanshu Kumar.
+All the creadits of this project goes to the team of [iNeuron](https://ineuron.ai/ "iNeuron") and Mr. Sudhanshu Kumar. :heart:
