@@ -12,26 +12,26 @@
 * Team
 * Credits
 
-##Demo
+## Demo
 Link:- 
 
-##Overview
+## Overview
 
-##Technical Aspect
+## Technical Aspect
 
-##Installation
+## Installation
 
-##Run
+## Run
 
-##Deployement on Pivotal
+## Deployement on Pivotal
 
-##Directory Tree
+## Directory Tree
 
-##To Do
+## To Do
 
-##Technologies Used
+## Technologies Used
 
-##Team
+## Team
 
-##Credits
+## Credits
 
