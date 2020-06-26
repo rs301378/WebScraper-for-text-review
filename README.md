@@ -71,6 +71,6 @@ This step would be to follow the instructions given on [Pivotal Documnetation](h
 ## Technologies Used
 ![Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)   ![Pivotal](https://4.bp.blogspot.com/-C-7zGVquuN0/W3sTKSKPseI/AAAAAAAAEYw/qUs8kXRXHTwV_VnA-sUFIH5aOnum68HKwCLcBGAs/s1600/center-pivotal-logo.png)  ![Flask](https://miro.medium.com/max/438/1*0G5zu7CnXdMT9pGbYUTQLQ.png)
 ## Team
-![Rohit](https://avatars0.githubusercontent.com/u/35064155?s=400&u=55b08cb72de99de06f4f8728e038297e90c8e255&v=4, width=200 height=100)
+![Rohit](https://avatars0.githubusercontent.com/u/35064155?s=400&u=55b08cb72de99de06f4f8728e038297e90c8e255&v=4 "width=200 height=100")
 ## Credits
 All the creadits of this project goes to the team of [iNeuron](https://ineuron.ai/ "iNeuron") and Mr. Sudhanshu Kumar.
