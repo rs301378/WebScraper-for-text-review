@@ -35,9 +35,36 @@ To run this on local machine, un-comment the line number 87 or 85 and commentlin
 ### Step2.
 Copy the link for e.g. `http://127.0.0.1:8001/` and past it on your broweser and hit enter.
 ## Deployement on Pivotal
-
+### Step1.
+Maintain necessary files like `requirements.txt, Procfile, runtime.txt, manifest,yml` . **Givent in the projrct directory check there.**
+### Step2. 
+This step would be to follow the instructions given on [Pivotal Documnetation](https://docs.pivotal.io/platform/application-service/2-8/devguide/deploy-apps/rolling-deploy.html "Pivotal Documnetation") to deploy a web app.
 ## Directory Tree
-
+|--.idea
+| |--misc.xml
+| |--modules.xml
+| |--webScrapperText.iml
+| |--workspace.xml
+|--static/css
+| |--fonts
+| | |--all.css
+| | |--all.min.css
+| |--webfonts
+| | |--fa-brands-400.lot
+| | |--fa-brands-400.svg
+| |--main.css
+| |--style.css
+|--templates
+| |--base.html
+| |--index.html
+| |--results.html
+|--Procfile
+|--README.md
+|--flask_app.py
+|--manifest.yml
+|--requirements.txt
+|--runtime.txt
+|--samsung.csv
 ## To Do
 
 ## Technologies Used
