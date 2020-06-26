@@ -27,8 +27,8 @@ This project is divided into two parts:-
   * Used flipkart site to show the reviews of products.
   * Used Pivotalto make this app public and use on any platform.
 ## Installation
-The code is written in `Python 3.6`. If you don't have Python installed you can find it [here](https://www.python.org/downloads/ "install python") .To install the required packages and libraries, run this command in the project directory after [clonning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/"cloning") the repository.
-`pip install -r requirements.txt`
+The code is written in `Python 3.6`. If you don't have Python installed you can find it [here](https://www.python.org/downloads/ "install python") .To install the required packages and libraries, run this command in the project directory after [clonning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/ "cloning") the repository.
+##`pip install -r requirements.txt`
 ## Run
 
 ## Deployement on Pivotal
