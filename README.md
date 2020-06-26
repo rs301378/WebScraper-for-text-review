@@ -69,7 +69,7 @@ This step would be to follow the instructions given on [Pivotal Documnetation](h
 1. Scrap multiple pages at one time.
 2. Add better UI and animations to display the reviews.
 ## Technologies Used
-
+![Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
 ## Team
 
 ## Credits
