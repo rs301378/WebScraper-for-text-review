@@ -14,7 +14,8 @@
 
 ## Demo
 Link:- 
-
+![index_page](https://github.com/rs301378/WebScraper-for-text-review/blob/master/index_page.JPG)
+![review_page](https://github.com/rs301378/WebScraper-for-text-review/blob/master/review_page.JPG)
 ## Overview
 This is a simple reivew scraper Flask app. This app simply scrap the reviews from flipkart site which include product, customer name, rating, Comment headings or comments and save that data into a `.csv` file.
 ## Technical Aspect
