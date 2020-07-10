@@ -5,7 +5,7 @@
 * Technical Aspect
 * Installation
 * Run
-* Deployement on Pivotal
+* Deployment on Pivotal
 * Directory Tree
 * To Do
 * Technologies Used
