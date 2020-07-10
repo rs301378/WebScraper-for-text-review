@@ -28,7 +28,7 @@ This project is divided into two parts:-
   * A user can enter the keywords into a search bar.
   * Hit enter after entering keywords. In the next page it will show the products reviews.
   * Used flipkart site to show the reviews of products.
-  * Used Pivotalto make this app public and use on any platform.
+  * Used Pivotal to make this app public.
 ## Installation
 The code is written in `Python 3.6`. If you don't have Python installed you can find it [here](https://www.python.org/downloads/ "install python") .To install the required packages and libraries, run this command in the project directory after [clonning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/ "cloning") the repository.
 `pip install -r requirements.txt`
@@ -36,10 +36,10 @@ The code is written in `Python 3.6`. If you don't have Python installed you can 
 ### Step1.
 To run this on local machine, un-comment the line number 87 or 85 and commentline number 86 or 83 in `flask_app.py` file. Then click on `run` button.
 ### Step2.
-Copy the link for e.g. `http://127.0.0.1:8001/` and past it on your broweser and hit enter.
+Copy the link for e.g. `http://127.0.0.1:8001/` and past it on your browser and hit enter.
 ## Deployement on Pivotal
 ### Step1.
-Maintain necessary files like `requirements.txt, Procfile, runtime.txt, manifest,yml` . **Givent in the projrct directory check there.**
+Maintain necessary files like `requirements.txt, Procfile, runtime.txt, manifest.yml`. **Givent in the project directory check there.**
 ### Step2. 
 This step would be to follow the instructions given on [Pivotal Documnetation](https://docs.pivotal.io/platform/application-service/2-8/devguide/deploy-apps/rolling-deploy.html "Pivotal Documnetation") to deploy a web app.
 ## Directory Tree
