@@ -1,6 +1,6 @@
 # WebScraper-for-text-review
 
-![Python](https://img.shields.io/badge/Python-3.6-%23000066)
+![Python](https://img.shields.io/badge/Python-3.6-%2333ccff)
 ![Framework](https://img.shields.io/badge/Framework-Flask-red)
 ![Frontend](https://img.shields.io/badge/Frontend-HTML%2FCSS-%23ff3300)
 ![Deployment](https://img.shields.io/badge/Deployment-Pivotal-%23006666)
