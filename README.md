@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.6-%2333ccff)
 ![Framework](https://img.shields.io/badge/Framework-Flask-red)
 ![Frontend](https://img.shields.io/badge/Frontend-HTML%2FCSS-%23ff3300)
-![Deployment](https://img.shields.io/badge/Deployment-Pivotal-%23006666)
 
 
 ## Table of Content
@@ -80,7 +79,7 @@ This step would be to follow the instructions given on [Pivotal Documnetation](h
 1. Scrap multiple pages at one time.
 2. Add better UI and animations to display the reviews.
 ## Technologies Used
-![Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)   ![Pivotal](https://4.bp.blogspot.com/-C-7zGVquuN0/W3sTKSKPseI/AAAAAAAAEYw/qUs8kXRXHTwV_VnA-sUFIH5aOnum68HKwCLcBGAs/s1600/center-pivotal-logo.png)  ![Flask](https://miro.medium.com/max/438/1*0G5zu7CnXdMT9pGbYUTQLQ.png)
+![Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png) ![Flask](https://miro.medium.com/max/438/1*0G5zu7CnXdMT9pGbYUTQLQ.png)
 ## Team
 | ![Rohit](https://avatars1.githubusercontent.com/u/35064155?s=60&v=4) |
 | -------------------------------------------------------------------- |
